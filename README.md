@@ -82,8 +82,8 @@ I also examined how preprocessing and input structure influenced the results.
 
 Due to size limitations, a sample dataset of 100 comments is included in this repository.
 
-- `sample_raw_data.csv` – original comments  
-- `sample_annotated_data.csv` – manually labeled comments  
+- `Sample_raw_data.xlsx` – original comments  
+- `annotated_comments_first_100.xlsx` – manually labeled comments  
 
 The full dataset used in the thesis contains approximately 2000 comments.
 ## Key Findings
